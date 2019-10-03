@@ -1,0 +1,29 @@
+$c_primary_alpha: #082e68;
+$c_primary_beta: #298bc8;
+$c_primary_gamma: #3a9382;
+/*OLD BETA*/
+$c_primary_delta: #4c9fd6;
+
+$c_secondary_alpha: #ef6f1c;
+$c_secondary_beta: #f9d606;
+$c_secondary_gamma: #e91748;
+$c_secondary_delta: #fbcada;
+$c_secondary_echo: #eefdff;
+
+$c_neutral_alpha: #7a7f83; 
+$c_neutral_beta: #e0e0e0;
+$c_neutral_gamma: #d3d8dd;
+$c_neutral_delta: #f5f7f7;
+$c_neutral_font: #373d3f;
+$c_neutral_disabled: #7f7f7f;
+$c_neutral_disabled_font: #333;
+/*OLD BETA*/
+$c_neutral_epsilon: #f0f0f0;
+
+$fi_radius: 4px;
+$fi_border_width: 1px;
+$fi_border_type: solid;
+
+$form_field_width: 205px;
+
+$standard_border: $fi_border_width $fi_border_type $c_neutral_alpha;
