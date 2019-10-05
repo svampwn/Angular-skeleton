@@ -1,4 +1,5 @@
 ngxbuild/
 node/
 node_modules/
-
+.firebase/
+.firebaserc

@@ -29,6 +29,7 @@
     "classlist-polyfill": "^1.2.0",
     "core-js": "^3.2.1",
     "eslint": "6.3.0",
+    "firebase": "^7.1.0",
     "hammerjs": "^2.0.8",
     "intl": "1.2.5",
     "jquery": "^3.4.1",

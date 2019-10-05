@@ -27,11 +27,11 @@
               "src/assets"
             ],
             "styles": [
-              "src/styles.scss",
+              "src/styles.scss"
             ],
             "scripts": [
               "node_modules/hammerjs/hammer.min.js",
-              "node_modules/jquery/dist/jquery.min.js",
+              "node_modules/jquery/dist/jquery.min.js"
             ],
             "namedChunks": true,
             "es5BrowserSupport": true
